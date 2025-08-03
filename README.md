@@ -12,8 +12,7 @@ Here are some of the technologies and tools I love to tinker with. I believe in 
   </a>
 </p>
 <hr>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DarthRomolus&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Rom's GitHub Stats" />
+<p align="center">
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRomolus&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
   <!-- Replace RomYourUsername with your actual GitHub username! -->
