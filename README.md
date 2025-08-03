@@ -8,12 +8,12 @@ Here are some of the technologies and tools I love to tinker with. I believe in 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,py,ts,js,kubernetes,docker,c,cs,css,html,mysql,react,nodejs,express,tensorflow,firebase,unity,postman,vscode,pycharm,idea,clion&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,java,py,ts,js,kubernetes,docker,c,cs,css,html,mysql,react,nodejs,express,tensorflow,firebase,unity,postman,vscode,pycharm,idea,clion" />
   </a>
 </p>
 <hr>
 <p align="center">
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRomolus&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRomolus&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" />
   <!-- Replace RomYourUsername with your actual GitHub username! -->
 </p>
