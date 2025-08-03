@@ -8,6 +8,6 @@ Here are some of the technologies and tools I love to tinker with. I believe in 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,py,ts,js,kubernetes,docker,c,cs,css,html,mysql,react,nodejs,express,tensorflow,firebase,unity,postman,vscode,pycharm,idea,clion&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,java,py,ts,js,kubernetes,docker,c,cs,css,html,mysql,react,nodejs,express,tensorflow,firebase,unity,postman,vscode,pycharm,idea,clion&perline=10" />
   </a>
-</p>`
+</p>
