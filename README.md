@@ -8,7 +8,7 @@ Here are some of the technologies and tools I love to tinker with. I believe in 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,py,ts,js,docker,c,cs,css,html,mysql,react,nodejs,express,nestjs,tensorflow,firebase,unity,postman,vscode,pycharm,idea,clion,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=git,java,py,ts,js,docker,c,cs,css,html,mysql,react,nodejs,express,nestjs,tensorflow,firebase,unity,postman,vscode,pycharm,idea,clion,postgres,prisma&perline=5" />
   </a>
 </p>
 <hr>
